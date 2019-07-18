@@ -1,0 +1,11 @@
+diff --git a/Readme.txt b/Readme.txt
+index 99e0e11..ceee4e4 100644
+--- a/Readme.txt
++++ b/Readme.txt
+@@ -1,2 +1,4 @@
+ Git is a distributed version control system.
+-Git is free software distributed under the GPL.
+\ No newline at end of file
++Git is free software distributed under the GPL.
++Git is free software distributed under the GPL.
++Git is free software distributed under the GPL.
